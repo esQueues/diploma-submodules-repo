@@ -1,0 +1,6 @@
+[submodule "elearning-ai-api"]
+	path = elearning-ai-api
+	url = https://github.com/esQueues/elearning-ai-api.git
+[submodule "elearning-web"]
+	path = elearning-web
+	url = https://github.com/esQueues/elearning-web.git
